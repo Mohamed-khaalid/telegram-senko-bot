@@ -2,7 +2,7 @@
 
 
 [![MIT License][license-shield]][license-url]
-[![Bot owner][telegram-bot-shield]][telegram-bot-https://t.me/mohamett_updywahab]
+[![Bot owner][telegram-bot-https://t.me/mohamett_updywahab]
 ![build-shield]
 
 <p align="center">
