@@ -87,11 +87,11 @@ func TestHandlePrivateChatCommands(t *testing.T) {
 			expectedReply: START_REPLY,
 		},
 		{
-			command:       "/wepo",
+			command:       "/repo",
 			expectedReply: REPO_URL,
 		},
 		{
-			command:       "/genewate",
+			command:       "/generate",
 			expectedReply: GENERATE_USAGE,
 		},
 		{
