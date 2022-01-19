@@ -2,7 +2,7 @@
 
 
 [![MIT License][license-shield]][license-url]
-[![Bot owner][telegram-bot-https://t.me/mohamett_updywahab]
+[![Telegram Demo][telegram-bot-shield]][telegram-bot-url]
 ![build-shield]
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 This bot greets new members on telegram groups with a cute, personalised gif with Senko-san.
 
-In case you're wondering, Senko-san is an adorable 800-year old fox from the anime [The Helpful Fox Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san) (jp. *世話やきキツネの仙狐さん*).
+In case you're wondering, Senko-san is an adorable 800-year old fox goddess from the anime [The Helpful Fox Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san) (jp. *世話やきキツネの仙狐さん*).
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -82,7 +82,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[![Chat on Telegram][telegram-shield]][telegram-profile-url]
+[![Chat on Telegram][telegram-shield]][https://t.me/mohamett_updywahab]
 
 
 ## Acknowledgements
