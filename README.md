@@ -82,7 +82,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[![Chat on Telegram][telegram-shield]][https://t.me/mohamett_updywahab]
+[![@mohamett_updywahab][telegram-shield]]
 
 
 ## Acknowledgements
