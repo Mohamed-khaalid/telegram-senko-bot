@@ -2,7 +2,7 @@
 
 
 [![MIT License][license-shield]][license-url]
-[![Telegram Demo][telegram-bot-shield]][telegram-bot-url]
+[![Ownerka botka][telegram-bot-shield]][telegram-bot-url]
 ![build-shield]
 
 <p align="center">
@@ -82,7 +82,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[![@mohamett_updywahab][telegram-shield]]
+[![Cinwaankayga][telegram-shield]][telegram-profile-url]
 
 
 ## Acknowledgements
@@ -93,8 +93,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [license-shield]: https://img.shields.io/github/license/4kaze/telegram-senko-bot
 [license-url]: https://github.com/4Kaze/telegram-senko-bot/blob/main/LICENSE
-[telegram-bot-url]: https://t.me/lolimnotabot
+[telegram-bot-url]: https://t.me/somali_tech
 [build-shield]: https://img.shields.io/github/workflow/status/4Kaze/telegram-senko-bot/Go
 [telegram-bot-shield]: https://img.shields.io/badge/Demo-Senko-green?logo=telegram
 [telegram-shield]: https://img.shields.io/badge/-Contact%20me%20on%20Telegram-gray?logo=telegram
-[telegram-profile-url]: https://t.me/yonkaze
+[telegram-profile-url]: https://t.me/mohamett_updywahab
