@@ -37,7 +37,7 @@ For both development and runtime environments:
    ```
 2. Clone the repo:
    ```sh
-   git clone https://github.com/4Kaze/telegram-senko-bot.git
+   git clone https://github.com/Mohamed-khaalid/telegram-senko-bot/blob/main/README.md
    ```
 3. Download [**NotoSansCJKjp-Black.otf**](https://www.google.com/get/noto/help/cjk/) font into the project folder:
     ```sh
@@ -65,8 +65,8 @@ The bot simply sends a gif with new member's name when they join a group.
 
 In private messages, it supports the following commands:
 * `/start` - a standard command that displays the description
-* `/genewate [name]` - a command that generates a new gif with given name 
-* `/wepo` - a command that sends the link to this repo
+* `/generate [name]` - a command that generates a new gif with given name 
+* `/repo` - a command that sends the link to this repo
 
 All names are stripped from emojis, symbols and are truncated to be at maximum 20 characters.
 
